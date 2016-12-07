@@ -1,4 +1,4 @@
-package br.ufg.cs.cleydsonjr.qp.model;
+package br.ufg.cs.cleydsonjr.qp.model.resultado;
 
 public interface ResultadoVerificacaoQualidade {
 

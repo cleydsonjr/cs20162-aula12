@@ -1,5 +1,8 @@
 package br.ufg.cs.cleydsonjr.qp.model;
 
+import br.ufg.cs.cleydsonjr.qp.model.relatorio.TipoRelatorio;
+import br.ufg.cs.cleydsonjr.qp.model.resultado.ResultadoVerificacaoQualidade;
+import br.ufg.cs.cleydsonjr.qp.model.verificacao.VerificadorQualidadeParser;
 import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;

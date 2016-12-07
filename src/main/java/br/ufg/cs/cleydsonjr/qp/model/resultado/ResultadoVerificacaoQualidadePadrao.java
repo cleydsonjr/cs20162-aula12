@@ -1,4 +1,4 @@
-package br.ufg.cs.cleydsonjr.qp.model;
+package br.ufg.cs.cleydsonjr.qp.model.resultado;
 
 public class ResultadoVerificacaoQualidadePadrao implements ResultadoVerificacaoQualidade {
     private String caminhoRelatorioGerado;

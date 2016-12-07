@@ -2,7 +2,10 @@
  * Copyright (c) 2016. Cleydson José de Figueiredo Júnior
  * Creative Commons Attribution 4.0 International License.
  */
-package br.ufg.cs.cleydsonjr.qp.model;
+package br.ufg.cs.cleydsonjr.qp.model.verificacao;
+
+import br.ufg.cs.cleydsonjr.qp.model.relatorio.TipoRelatorio;
+import br.ufg.cs.cleydsonjr.qp.model.resultado.ResultadoVerificacaoQualidade;
 
 /**
  * Interface que expõe a regra de negócio do programa.

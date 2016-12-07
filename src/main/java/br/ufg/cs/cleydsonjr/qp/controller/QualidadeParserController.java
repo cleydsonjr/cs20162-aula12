@@ -4,9 +4,9 @@
  */
 package br.ufg.cs.cleydsonjr.qp.controller;
 
-import br.ufg.cs.cleydsonjr.qp.model.ResultadoVerificacaoQualidade;
-import br.ufg.cs.cleydsonjr.qp.model.TipoRelatorio;
-import br.ufg.cs.cleydsonjr.qp.model.VerificadorQualidade;
+import br.ufg.cs.cleydsonjr.qp.model.resultado.ResultadoVerificacaoQualidade;
+import br.ufg.cs.cleydsonjr.qp.model.relatorio.TipoRelatorio;
+import br.ufg.cs.cleydsonjr.qp.model.verificacao.VerificadorQualidade;
 import br.ufg.cs.cleydsonjr.qp.view.QualidadeParserView;
 
 /**

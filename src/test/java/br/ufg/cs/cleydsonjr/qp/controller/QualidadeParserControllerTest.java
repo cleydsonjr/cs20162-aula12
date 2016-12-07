@@ -1,7 +1,7 @@
 package br.ufg.cs.cleydsonjr.qp.controller;
 
-import br.ufg.cs.cleydsonjr.qp.model.VerificadorQualidade;
-import br.ufg.cs.cleydsonjr.qp.model.VerificadorQualidadeParser;
+import br.ufg.cs.cleydsonjr.qp.model.verificacao.VerificadorQualidade;
+import br.ufg.cs.cleydsonjr.qp.model.verificacao.VerificadorQualidadeParser;
 import br.ufg.cs.cleydsonjr.qp.view.QualidadeParserView;
 import br.ufg.cs.cleydsonjr.qp.view.console.QualidadeParserConsoleView;
 import org.junit.Assert;

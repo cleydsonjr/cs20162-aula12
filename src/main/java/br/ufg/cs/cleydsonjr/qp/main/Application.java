@@ -5,8 +5,8 @@
 package br.ufg.cs.cleydsonjr.qp.main;
 
 import br.ufg.cs.cleydsonjr.qp.controller.QualidadeParserController;
-import br.ufg.cs.cleydsonjr.qp.model.VerificadorQualidade;
-import br.ufg.cs.cleydsonjr.qp.model.VerificadorQualidadeParser;
+import br.ufg.cs.cleydsonjr.qp.model.verificacao.VerificadorQualidade;
+import br.ufg.cs.cleydsonjr.qp.model.verificacao.VerificadorQualidadeParser;
 import br.ufg.cs.cleydsonjr.qp.view.QualidadeParserView;
 import br.ufg.cs.cleydsonjr.qp.view.console.QualidadeParserConsoleView;
 

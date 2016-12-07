@@ -2,7 +2,11 @@
  * Copyright (c) 2016. Cleydson José de Figueiredo Júnior
  * Creative Commons Attribution 4.0 International License.
  */
-package br.ufg.cs.cleydsonjr.qp.model;
+package br.ufg.cs.cleydsonjr.qp.model.verificacao;
+
+import br.ufg.cs.cleydsonjr.qp.model.relatorio.TipoRelatorio;
+import br.ufg.cs.cleydsonjr.qp.model.resultado.ResultadoVerificacaoQualidade;
+import br.ufg.cs.cleydsonjr.qp.model.resultado.ResultadoVerificacaoQualidadePadrao;
 
 /**
  * Implementação do calculador de uma expressão, usando a biblioteca "parser".
